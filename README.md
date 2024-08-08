@@ -1,6 +1,6 @@
-# 🏞️ Lakehouse Big Data Lab
+# 🏞️ DataLake Big Data Lab
 
-Bem-vindo ao **Lakehouse Big Data Lab**! 🎉 Este projeto é um ambiente de laboratório pronto para uso, projetado para fornecer uma plataforma de análise de big data usando Hadoop, Spark e Trino. Aqui, você encontrará instruções detalhadas sobre como configurar e usar esse ambiente incrível.
+Bem-vindo ao **DataLake Big Data Lab**! 🎉 Este projeto é um ambiente de laboratório pronto para uso, projetado para fornecer uma plataforma de análise de big data usando Hadoop, Spark e Trino. Aqui, você encontrará instruções detalhadas sobre como configurar e usar esse ambiente incrível.
 
 ## Ferramentas Incluídas
 
@@ -45,7 +45,7 @@ docker-compose up -d
 ## 🛠️ Estrutura do Projeto
 
 ```plaintext
-lakehouse-big-data-lab/
+datalake-big-data-lab/
 │
 ├── hadoop/
 │   ├── config/
